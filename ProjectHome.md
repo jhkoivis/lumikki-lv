@@ -1,0 +1,1 @@
+This project contains most of the labView part of lumikki project.
